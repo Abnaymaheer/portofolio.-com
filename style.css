@@ -311,7 +311,7 @@ footer .boxes .box-3  p {
 .blogs .images img {
     width: 200px;
     height: 200px;
-    margin: 0 2rem;
+    
 }
 @media (max-width: 768px) {
     .blogs .images  {
